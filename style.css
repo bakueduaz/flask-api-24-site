@@ -1,0 +1,76 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+body h2 {
+  font-weight: 500;
+  font-size: 30px;
+}
+body input, body .btn {
+  border: 2px solid #3a5543;
+}
+
+#whyUs {
+  margin-top: 50px;
+  color: #965A32;
+}
+#whyUs .box {
+  text-align: center;
+  border-radius: 20px;
+  background-color: #E6DAD3;
+  padding: 15px;
+  margin: 20px 0;
+}
+#whyUs .box img {
+  border-radius: 100%;
+  max-width: 200px;
+}
+#whyUs .box h1, #whyUs .box h4, #whyUs .box .infobox {
+  margin-top: 25px;
+}
+#whyUs .box h4 {
+  line-height: 25px;
+  overflow: auto;
+  max-height: 126px;
+}
+#whyUs .box h4::-webkit-scrollbar {
+  display: none;
+}
+#whyUs .box .infobox {
+  display: flex;
+  justify-content: center;
+}
+#whyUs .box .infobox .lbtn, #whyUs .box .infobox .dbtn {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #d1b8aa;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#shop {
+  margin: 50px 0;
+}
+#shop .box {
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: #d6e7ff;
+  padding: 20px;
+}
+#shop .box #big {
+  border-radius: 20px;
+  background-color: #a8ccff;
+  padding: 5px 20px;
+  color: white;
+  margin-left: 10px;
+}
+
+#ipad {
+  margin: 50px 0 100px;
+}
+#ipad h1 {
+  font-size: 33px;
+  color: #75acfc;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
