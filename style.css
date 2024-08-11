@@ -20,10 +20,12 @@ body input, body .btn {
   background-color: #E6DAD3;
   padding: 15px;
   margin: 20px 0;
+  height: 500px;
 }
 #whyUs .box img {
   border-radius: 100%;
   max-width: 200px;
+  height: 200px;
 }
 #whyUs .box h1, #whyUs .box h4, #whyUs .box .infobox {
   margin-top: 25px;
